@@ -1,0 +1,15 @@
+Piggy_Bank.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Coin
+bounds:299,257,132,90
+offsets:1,0,134,90
+rotate:90
+H1
+bounds:2,184,211,205
+offsets:2,1,214,207
+Heo Icon copy
+bounds:215,151,238,82
+offsets:2,2,242,86
+rotate:90

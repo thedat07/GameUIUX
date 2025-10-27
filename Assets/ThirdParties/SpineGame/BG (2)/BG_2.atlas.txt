@@ -1,0 +1,13 @@
+BG_2.png
+size:1738,1738
+filter:Linear,Linear
+pma:true
+BG copy
+bounds:2,918,1003,818
+offsets:1,2,1005,822
+Layer 1
+bounds:1310,1456,227,280
+Layer 2
+bounds:1539,1499,197,237
+Layer 3
+bounds:1007,1305,301,431

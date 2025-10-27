@@ -1,0 +1,19 @@
+No_Ads.png
+size:512,512
+filter:Linear,Linear
+pma:true
+SD
+bounds:2,266,195,223
+offsets:0,0,195,224
+Screen
+bounds:376,367,122,110
+rotate:90
+Shape 2
+bounds:199,249,34,41
+offsets:1,1,36,43
+rotate:90
+TV
+bounds:199,285,175,204
+offsets:4,4,184,211
+x
+bounds:376,256,113,109

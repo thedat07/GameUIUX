@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7caf4d3a9c36cf941b993bbb61ef1c96, type: 3}
+  m_Name: SoTheStickyCollector
+  m_EditorClassIdentifier: 
+  datas:
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 30
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 200
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 250
+  - iconRewards: {fileID: 21300000, guid: 4cb8db1d5a2fd17488cf13a074c12495, type: 3}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 300
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 30
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 15
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 250
+  - iconRewards: {fileID: 21300000, guid: 4cb8db1d5a2fd17488cf13a074c12495, type: 3}
+    rewards:
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 450
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 200
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 15
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 350
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - iconRewards: {fileID: 21300000, guid: 9b711cd87299f404fbbcf5ccd38931c8, type: 3}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 300
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 45
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 300
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 350
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 2
+  - iconRewards: {fileID: 21300000, guid: 9b711cd87299f404fbbcf5ccd38931c8, type: 3}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 400
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 60
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 300
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 2
+  - iconRewards: {fileID: 0}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 400
+  - iconRewards: {fileID: 21300000, guid: ff01b3d66c84a7b42a732e0e242f935f, type: 3}
+    rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 600
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 90
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1

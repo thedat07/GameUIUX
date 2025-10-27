@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Core/MainGame/MainGameCore.unity
+    guid: c8e0bd2535319254b827f06a3c9495a5
+  - enabled: 1
+    path: Assets/Scenes/Home/HomeCore.unity
+    guid: 5c3837ffbfe344340a4015de05c418e1
+  - enabled: 1
+    path: Assets/Scenes/GamePlay/GamePlayCore.unity
+    guid: 3a8081060c3f8de41a617a9a6650b542
+  - enabled: 1
+    path: Assets/Scenes/Core/Loading/PopupLoading.unity
+    guid: a02b6d5a43c3f6b4ba6ca352f810f764
+  - enabled: 1
+    path: Assets/Scenes/Core/Tool/PopupTool.unity
+    guid: 5a38e10e5d1482644bb7b3a8ae20e0d1
+  - enabled: 1
+    path: Assets/Scenes/PiggyBank/PiggyBank.unity
+    guid: 5cbfac90dd661cb4faa175211ea0a488
+  - enabled: 1
+    path: Assets/Scenes/Lose/Lose.unity
+    guid: 258be1e4e72040346942259314fb402d
+  - enabled: 1
+    path: Assets/Scenes/Win/WinScene.unity
+    guid: 0c9e2435368c1144996fadd2d85dae63
+  - enabled: 1
+    path: Assets/Scenes/LuckySpin/LuckySpin.unity
+    guid: 6c3d02e25cc999f4cbd7d9918c7213be
+  - enabled: 1
+    path: Assets/Scenes/MoreLives/MoreLives.unity
+    guid: ef3bfc42bc776904ebcdea5daabbd000
+  - enabled: 1
+    path: Assets/Scenes/Retry/Retry.unity
+    guid: 4c8f9e0fbcf7bd949b84681dd1428826
+  - enabled: 1
+    path: Assets/Scenes/QuitGamePlay/QuitGamePlay.unity
+    guid: e07bef36a9926d745ae3228e853f3827
+  - enabled: 1
+    path: Assets/Scenes/BuyBooster/BuyBooster.unity
+    guid: 3f13180f6ab50744d91548e3257bc907
+  - enabled: 1
+    path: Assets/Scenes/ShopMini/ShopMini.unity
+    guid: 9b1825cdc1d741b4a8842f799fad1481
+  - enabled: 1
+    path: Assets/Scenes/UnLockNewBooster/UnLockNewBooster.unity
+    guid: 71e1c4d34795b424f829d80150ee5520
+  - enabled: 1
+    path: Assets/Scenes/Rewards/PopupRewards.unity
+    guid: 99d8a6db81a2ed44ebde7425967a5793
+  - enabled: 1
+    path: Assets/Scenes/DailyRewards/DailyRewards.unity
+    guid: 7e082d5737b847743a6dc7836489b99e
+  - enabled: 1
+    path: Assets/Scenes/SettingGamePlay/SettingGamePlay.unity
+    guid: cf0d82f0f61290843a5dd089a76acc51
+  - enabled: 1
+    path: Assets/Scenes/SettingHome/SettingHome.unity
+    guid: a85ca198571e8374db69ce1a54a9cb7f
+  - enabled: 1
+    path: Assets/Scenes/PackRemoveAds/PackRemoveAds.unity
+    guid: 790562d9ebcf3fd4c8ac1bbb2047cf3d
+  - enabled: 1
+    path: Assets/Scenes/PackStarterPack/PackStarterPack.unity
+    guid: a8ff93b4710813840a4897a07e80457a
+  - enabled: 1
+    path: Assets/Scenes/TheStickyCollector/TheStickyCollector.unity
+    guid: da18fc2732291824aa1d6f00ce4552fb
+  - enabled: 1
+    path: Assets/Scenes/UnLockNewFeature/UnLockNewFeature.unity
+    guid: 1c95e95a92da2964987ea447a4bfe320
+  - enabled: 1
+    path: Assets/Scenes/RedeemCode/RedeemCode.unity
+    guid: f2a82df291df1014f8cd3741c7cb78de
+  - enabled: 0
+    path: Assets/Scenes/RetryTSC/RetryTSC.unity
+    guid: ad27c324e26ff304cbb060df18ba18db
+  - enabled: 1
+    path: Assets/Scenes/RateUs/RateUs.unity
+    guid: 1c22a1586f46c2b4e92ee09da3063365
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: c5b7775ee0fd13e4282589b4d976415e, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 0b38646471ef07f4181a390981dae609, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: f5fc5462b921f244285d78bcef4c7e3d, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 8d36eaaa83650c34b9614cbc38b75548, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: c49a0626e8aadc4488823b0632917ae1, type: 2}
+  m_UseUCBPForAssetBundles: 0

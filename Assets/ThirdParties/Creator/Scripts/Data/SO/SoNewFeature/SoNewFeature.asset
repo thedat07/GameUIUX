@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6708b9fd8af7eaa46ba4e6fcf55edb5c, type: 3}
+  m_Name: SoNewFeature
+  m_EditorClassIdentifier: 
+  datas:
+  - requireLevel: 7
+    iconLock: {fileID: -6177987356348694117, guid: 4ce2e21d1bf21414d99bdd48dace985b, type: 3}
+    iconUnLock: {fileID: 4359554461854872428, guid: 1580e63763455e44584ac9363ae5b0bf, type: 3}
+    txtName: Lift
+    txtDes: Elevators have a people limit
+  - requireLevel: 15
+    iconLock: {fileID: 8558747206926253556, guid: 4eb6508101168d54db7f38f341f8f687, type: 3}
+    iconUnLock: {fileID: 1410788979788740629, guid: af522ffa96a4ace49850e87066f41293, type: 3}
+    txtName: Axis lock
+    txtDes: Arrow holes move one way
+  - requireLevel: 30
+    iconLock: {fileID: 8558747206926253556, guid: 4eb6508101168d54db7f38f341f8f687, type: 3}
+    iconUnLock: {fileID: 1954190928561066435, guid: 207af601cbff879438b8335935bfcc43, type: 3}
+    txtName: Multi-Layer
+    txtDes: Clear holes from the inside out
+  - requireLevel: 50
+    iconLock: {fileID: -5515747366099220572, guid: 5637acaa46dee834c95cc5414a0a3fd4, type: 3}
+    iconUnLock: {fileID: 4017561399979273376, guid: 73cea082f31b25a4fbac519116bc8fad, type: 3}
+    txtName: Combined
+    txtDes: "Separate combined holes \nby completing one half first"
+  - requireLevel: 70
+    iconLock: {fileID: 2424598698755098905, guid: 222b64b50dcdcab42b7592ac1256781d, type: 3}
+    iconUnLock: {fileID: -3288830945229295992, guid: cb1f4465f95e90344bd7799b47a2d8f4, type: 3}
+    txtName: Lock & Key
+    txtDes: "Cannot move the locked hole \nbefore collecting all keys"
+  - requireLevel: 90
+    iconLock: {fileID: 3191814058139357752, guid: 885bc680efe44504e9a2ebbab4a3f175, type: 3}
+    iconUnLock: {fileID: -5411337692752027594, guid: 6fb06d19262a8e842b09633ff61e576a, type: 3}
+    txtName: Tube
+    txtDes: "People in tubes can jump into \nthe hole from any of the four sides"
+  - requireLevel: 110
+    iconLock: {fileID: 2529803695649627717, guid: 369406e0716a65440b49be79b85a83db, type: 3}
+    iconUnLock: {fileID: 8640627708876478351, guid: dd932d5ed6a81ab40a29554c08bdf6c5, type: 3}
+    txtName: Flower
+    txtDes: "Star characters drop \ninto star-shaped holes."

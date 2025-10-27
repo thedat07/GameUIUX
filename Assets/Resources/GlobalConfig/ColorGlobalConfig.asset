@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7d4b86be89e4569802fe6ad7694605a, type: 3}
+  m_Name: ColorGlobalConfig
+  m_EditorClassIdentifier: 
+  <ColorConfigs>k__BackingField:
+  - <GameColor>k__BackingField: 0
+    <ColorLayer>k__BackingField: 11
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 86a7b046186fb37479046fdf66c2504f, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: ff32c49719fddc84291a36d6621dbdd2, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: ebd6449af18cc9541bbd7c75b7a43a9d, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: a48705cfabe1c584da523aeb51e55a16, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 1
+    <ColorLayer>k__BackingField: 14
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 75985cc64d15e4d45b9fddb6a31129a4, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 5470c2b8e18a8b34c9c2107a1c2e9ae8, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 69ad177598d248b4ebc179b52c335cf9, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 4fd12f04e6253c449908f746d67fdac1, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 2
+    <ColorLayer>k__BackingField: 19
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 1a4d7c237022e2f44a540e23b818e5ad, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 61f985f456c8c9547b6e2df57d8e7236, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 0ee5232dcc4b27d4e9802567672ec6b3, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 9dbd505ff55a55d4ba51bb2b980d600e, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 3
+    <ColorLayer>k__BackingField: 20
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 4bbbb18fc2a99844ab129cd678fb39de, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: ed18a83dfcf6dad439d7791374263fc2, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 5ef8e070c6e7f084699413c78266755b, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: d28f1816e02e94c46904a9c0d234aba2, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 4
+    <ColorLayer>k__BackingField: 16
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: b50788c8b9dd7004293f95a3b367e61b, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: aea9207fcd3fd2f4281226ed8abdc982, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 2c4de5da07559be419af4d5562afe98e, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 9f0c0d4d84103424b9fcac341837060b, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 5
+    <ColorLayer>k__BackingField: 17
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 4ac1b913e94a6114497c108924c373b8, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: c8210ca8716310e4b8b94fd8d7facced, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 334232c785920984fb5714d7f8d90f75, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: beab25513d0073a42920914398cc7198, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 6
+    <ColorLayer>k__BackingField: 18
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 17a106e2b749c2d4989b15aac38a0f16, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 33f790418f1e2d047b40a5958120bbaa, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: d324af860d97a5947911d7f3b5767d55, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 68f1781ecbfa13049a500a856405a1a0, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 7
+    <ColorLayer>k__BackingField: 12
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 740811222818096488a306ce8312c017, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 3d3efd978c60871419d81148b2f3222c, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 51b67374d7e0c66418a15f44e7185509, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 51e386ecf71fd114a9be48b53f83458f, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 8
+    <ColorLayer>k__BackingField: 13
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 032077eed98b49c4ca1e3f2d8d8df18b, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: bebcf45ca35198f4f9e9385057328541, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: d6c5df73b42dc214b97b1d84209e4c1a, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: ee5d367756536364588d3629dda10993, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 9
+    <ColorLayer>k__BackingField: 15
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 46acfaa1819eb6247aa28cdb4bf48c62, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 345c3df1bb69c57478cc0716fd61b530, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 4cb9f16e58b9a5047a02cfc07d95c7f5, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 8529cfd58ef47d44a9f79e6a3cc1cd3c, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 0}
+    <HatMaterial>k__BackingField: {fileID: 0}
+  - <GameColor>k__BackingField: 10
+    <ColorLayer>k__BackingField: 22
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 86a7b046186fb37479046fdf66c2504f, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: ff32c49719fddc84291a36d6621dbdd2, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: ebd6449af18cc9541bbd7c75b7a43a9d, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: a48705cfabe1c584da523aeb51e55a16, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: 86fc78de381b385489f75069436aa96b, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: 7b6c1960af2aa43419f7a240aae03ef1, type: 2}
+  - <GameColor>k__BackingField: 11
+    <ColorLayer>k__BackingField: 23
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 75985cc64d15e4d45b9fddb6a31129a4, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 5470c2b8e18a8b34c9c2107a1c2e9ae8, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 69ad177598d248b4ebc179b52c335cf9, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 4fd12f04e6253c449908f746d67fdac1, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: e61eb4eef530aab4a8f5fd428be2c824, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: bc0f137370579894bbc5d256e528906a, type: 2}
+  - <GameColor>k__BackingField: 12
+    <ColorLayer>k__BackingField: 24
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 1a4d7c237022e2f44a540e23b818e5ad, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 61f985f456c8c9547b6e2df57d8e7236, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 0ee5232dcc4b27d4e9802567672ec6b3, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 9dbd505ff55a55d4ba51bb2b980d600e, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: a4f0ef21dccd21a47b6904ae33673211, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: 38034ca91550a4745b58a23758fcbf58, type: 2}
+  - <GameColor>k__BackingField: 13
+    <ColorLayer>k__BackingField: 25
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 4bbbb18fc2a99844ab129cd678fb39de, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: ed18a83dfcf6dad439d7791374263fc2, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 5ef8e070c6e7f084699413c78266755b, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: d28f1816e02e94c46904a9c0d234aba2, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: ef1b44bc41454454983da5fd815d85c5, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: 7d51463639638d547bbea801d0f06660, type: 2}
+  - <GameColor>k__BackingField: 14
+    <ColorLayer>k__BackingField: 26
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: b50788c8b9dd7004293f95a3b367e61b, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: aea9207fcd3fd2f4281226ed8abdc982, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 2c4de5da07559be419af4d5562afe98e, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 9f0c0d4d84103424b9fcac341837060b, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: 29b1d90da7846564491400b4ae26091e, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: 56d3837afafa4214cad7012221a43e15, type: 2}
+  - <GameColor>k__BackingField: 15
+    <ColorLayer>k__BackingField: 27
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 4ac1b913e94a6114497c108924c373b8, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: c8210ca8716310e4b8b94fd8d7facced, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 334232c785920984fb5714d7f8d90f75, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: beab25513d0073a42920914398cc7198, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: ccf208b80893df44596271e584ef4665, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: b93d4e51f7169a14eb85ab0ac6e58051, type: 2}
+  - <GameColor>k__BackingField: 16
+    <ColorLayer>k__BackingField: 28
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 17a106e2b749c2d4989b15aac38a0f16, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 33f790418f1e2d047b40a5958120bbaa, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: d324af860d97a5947911d7f3b5767d55, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 68f1781ecbfa13049a500a856405a1a0, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: df0af2cf43a2cf949b8f8d7d49cc0797, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: 3a9894d00b1bf4844a2d13a113c09459, type: 2}
+  - <GameColor>k__BackingField: 17
+    <ColorLayer>k__BackingField: 29
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 740811222818096488a306ce8312c017, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 3d3efd978c60871419d81148b2f3222c, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 51b67374d7e0c66418a15f44e7185509, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 51e386ecf71fd114a9be48b53f83458f, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: bde5aec8192867d4ba4297babb7746b0, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: f7be24aad1f80304e8f739c94f3ac54e, type: 2}
+  - <GameColor>k__BackingField: 18
+    <ColorLayer>k__BackingField: 30
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 032077eed98b49c4ca1e3f2d8d8df18b, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: bebcf45ca35198f4f9e9385057328541, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: d6c5df73b42dc214b97b1d84209e4c1a, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: ee5d367756536364588d3629dda10993, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: 5a46a89df3a525f40a1c3cd3c1539ca7, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: 6dd83ca407ea77446b18a4d6109020f6, type: 2}
+  - <GameColor>k__BackingField: 19
+    <ColorLayer>k__BackingField: 31
+    <ColorMaterial>k__BackingField: {fileID: 2100000, guid: 46acfaa1819eb6247aa28cdb4bf48c62, type: 2}
+    <HoleColorMaterial>k__BackingField: {fileID: 2100000, guid: 345c3df1bb69c57478cc0716fd61b530, type: 2}
+    <LockMaterial>k__BackingField: {fileID: 2100000, guid: 4cb9f16e58b9a5047a02cfc07d95c7f5, type: 2}
+    <KeyMaterial>k__BackingField: {fileID: 2100000, guid: 8529cfd58ef47d44a9f79e6a3cc1cd3c, type: 2}
+    <StarMaterial>k__BackingField: {fileID: 2100000, guid: bb4810274f8952849a261e69ad9b0946, type: 2}
+    <HatMaterial>k__BackingField: {fileID: 2100000, guid: a5168ee3cf04b1941bf00ddda5377495, type: 2}
+  <PeopleBlackOutlineMat>k__BackingField: {fileID: 2100000, guid: 175fb7acb94535148b01973fa62c5a5c, type: 2}
+  <PeopleWhiteOutlineMat>k__BackingField: {fileID: 2100000, guid: 23e1c6ed7185b8243a6d2606b5fc1918, type: 2}

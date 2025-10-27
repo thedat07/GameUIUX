@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 779fb72a6bab405cb5b96942ad6ad8e4, type: 3}
+  m_Name: PrefabGlobalConfig
+  m_EditorClassIdentifier: 
+  <MapTileRules>k__BackingField:
+  - <Tile>k__BackingField: {fileID: 2639761460526933397, guid: dd9f4bb14d81d294c8b812f3e7425669, type: 3}
+    <RuleData>k__BackingField: 01000000010000000000000001000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: ef9b33d3a128c204db3b36a0fe40e0bd, type: 3}
+    <RuleData>k__BackingField: 01000000000000000100000000000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: 673a7ea822efbf441a605e9d02ba6035, type: 3}
+    <RuleData>k__BackingField: 00000000010000000000000000000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: 3dcd522fff6a4bc488463f44004dcfa0, type: 3}
+    <RuleData>k__BackingField: 01000000010000000000000000000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: 328afa7f0915d5749b23be07a2cce151, type: 3}
+    <RuleData>k__BackingField: 00000000010000000100000000000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: d5c1c6c1b91cc164e87c06b49e5311a8, type: 3}
+    <RuleData>k__BackingField: 01000000000000000000000000000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: 5556875f035550b449a3d3b3d5cd9234, type: 3}
+    <RuleData>k__BackingField: 00000000000000000000000000000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: bb3235b7faa38e84aabc1939a7aaeca0, type: 3}
+    <RuleData>k__BackingField: 00000000000000000000000001000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: 73481189434c4ae4f83b4658c0428677, type: 3}
+    <RuleData>k__BackingField: 01000000000000000100000001000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: fd3a4510053d85d448a9cc7ea3937fbe, type: 3}
+    <RuleData>k__BackingField: 00000000000000000100000001000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: 750146ed094b59947872092a0881681e, type: 3}
+    <RuleData>k__BackingField: 00000000000000000100000000000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: d1d57aa4956d3f04f9a166df5675f4e5, type: 3}
+    <RuleData>k__BackingField: 00000000010000000000000001000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: 405318c44a305e2459f275c7c81b1e35, type: 3}
+    <RuleData>k__BackingField: 01000000010000000100000001000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: 4a960f6a1b7d7fe488e2e38229a2620c, type: 3}
+    <RuleData>k__BackingField: 01000000010000000100000000000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: bc06bb90e00b3cc4a919dea3d5b0601d, type: 3}
+    <RuleData>k__BackingField: 01000000000000000000000001000000
+  - <Tile>k__BackingField: {fileID: 425223362705945606, guid: 77d2e22353d854f4b98f1c73fcee5c4b, type: 3}
+    <RuleData>k__BackingField: 00000000010000000100000001000000
+  <HolePrefabArray>k__BackingField:
+  - {fileID: 8475955219392303929, guid: 5d2a578efa5fc9e4992c3cc0fae3b88a, type: 3}
+  - {fileID: 1056208354057946331, guid: df0ce66aacec5d341b39ad53955740bd, type: 3}
+  - {fileID: 1056208354057946331, guid: e9a50824236a8b64287e8a77ead23ae9, type: 3}
+  - {fileID: 1056208354057946331, guid: fb3b58832db38b9439471b8fe9f23f15, type: 3}
+  - {fileID: 1056208354057946331, guid: 5a8e230658e5a9844815ecd97251ab85, type: 3}
+  - {fileID: 1056208354057946331, guid: 10c5c8d50ec9f42499ec9001b1eeb65b, type: 3}
+  - {fileID: 1056208354057946331, guid: dfbe415c25206024e99a125853948529, type: 3}
+  - {fileID: 1056208354057946331, guid: 96388425715724243a1e10866410642b, type: 3}
+  - {fileID: 1056208354057946331, guid: c221207534fa30242a98625dd13df45a, type: 3}
+  <PeoplePrefab>k__BackingField: {fileID: 457965996589787477, guid: e8029f02129abe446a86fe634f6f256a, type: 3}
+  <ElevatorPrefab>k__BackingField: {fileID: 7148874267039120042, guid: 8c3260255ac3fbb4bbbcdbf0d93817c5, type: 3}
+  <ChainPrefab>k__BackingField: {fileID: 4210007927716848906, guid: 75209dc03f3179449b31939b38698269, type: 3}
+  <LevelPrefab>k__BackingField: {fileID: 5133409547802778550, guid: fb3fff6b8b214094c8104f2805c5ff65, type: 3}
+  <KeyPrefab>k__BackingField: {fileID: 1303590412774708544, guid: db4a1f24d8747d640a4822e7ed12243b, type: 3}
+  <TubePrefab>k__BackingField: {fileID: 4726878797321636809, guid: 00445f3688794fd419909fa6a94eea29, type: 3}
+  <TutLevel1Prefab>k__BackingField: {fileID: 713188391669760316, guid: 9361387502fd5d043a79016b6f6e5dfc, type: 3}
+  <EffectIceNormal>k__BackingField: {fileID: 1021582271890937250, guid: 8340f547bd89f8345b6ada0372338fa0, type: 3}
+  <EffectIceBreak>k__BackingField: {fileID: 8503676143924493076, guid: 1833ebb8cfee25349b3eaa59fcddf890, type: 3}

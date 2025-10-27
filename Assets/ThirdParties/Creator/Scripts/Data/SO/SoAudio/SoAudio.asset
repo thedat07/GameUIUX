@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87938cddde760144c98b0755666cbfde, type: 3}
+  m_Name: SoAudio
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  click: {fileID: 8300000, guid: f9a36ae3c8ab44143aa9b04c7b664856, type: 3}
+  sf: {fileID: 8300000, guid: cea00cce0239545448a1ae34bddbf8f3, type: 3}
+  sf2: {fileID: 8300000, guid: a8177cc911555954d96ee6e2ea181400, type: 3}
+  vfx:
+  - type: 0
+    clip: {fileID: 8300000, guid: 1337507bf31ca044a96576d1507346f2, type: 3}
+  - type: 1
+    clip: {fileID: 8300000, guid: 40983dc92b8a3654e903f43dcb955ec2, type: 3}
+  - type: 2
+    clip: {fileID: 8300000, guid: 6893bd16da69c974ebf63c7c04c601b5, type: 3}
+  - type: 3
+    clip: {fileID: 8300000, guid: 40983dc92b8a3654e903f43dcb955ec2, type: 3}
+  - type: 5
+    clip: {fileID: 8300000, guid: a338a7d7b795dd540b63c31e835f1a65, type: 3}
+  - type: 6
+    clip: {fileID: 8300000, guid: 06198d0655f78df44b076936b7ef6cee, type: 3}
+  - type: 7
+    clip: {fileID: 8300000, guid: 3d3c92fd840eb0d48a21292f5d76a75b, type: 3}
+  - type: 8
+    clip: {fileID: 8300000, guid: 67b9b40b0c1e5994683f8fd3efb9eca5, type: 3}
+  - type: 4
+    clip: {fileID: 8300000, guid: c00756d129cd3154c967923d36a54e63, type: 3}
+  - type: 9
+    clip: {fileID: 8300000, guid: d2381b6bb4d6d454f89b5024515e8b28, type: 3}
+  - type: 10
+    clip: {fileID: 8300000, guid: a5c34fec6b0d66e4695c1b8c475b425c, type: 3}
+  - type: 11
+    clip: {fileID: 8300000, guid: 68040cdcbbbc9334b9375db341162815, type: 3}
+  - type: 12
+    clip: {fileID: 8300000, guid: b2a67a1db038fb04bb3dd7117da38e7c, type: 3}
+  - type: 13
+    clip: {fileID: 8300000, guid: 53d2d0475eafb9c4088c1093d9ad7b5f, type: 3}
+  - type: 14
+    clip: {fileID: 8300000, guid: c96a3b9f5cc750743990d250ea212843, type: 3}
+  - type: 15
+    clip: {fileID: 8300000, guid: 15ce04e87524ffd4b9eedf42f195aa31, type: 3}
+  - type: 16
+    clip: {fileID: 8300000, guid: 78556c41ac75bd24f9c585b7ff8e0168, type: 3}
+  - type: 17
+    clip: {fileID: 8300000, guid: 72079df5bd2f0734b8838a51f4fbc762, type: 3}

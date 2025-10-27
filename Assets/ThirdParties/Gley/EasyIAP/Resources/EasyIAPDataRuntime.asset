@@ -1,0 +1,411 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 826e3fbbfdb9d9843a24a6e897a3af45, type: 3}
+  m_Name: EasyIAPDataRuntime
+  m_EditorClassIdentifier: 
+  debug: 0
+  useReceiptValidation: 0
+  usePlaymaker: 0
+  useUVS: 0
+  useForGooglePlay: 1
+  useForAmazon: 0
+  useForIos: 0
+  useForMac: 0
+  useForWindows: 0
+  shopProducts:
+  - productName: SmallPack
+    productType: 0
+    idGooglePlay: com.color.drop.hole.small
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 6000
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 60
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: MediumPack
+    productType: 0
+    idGooglePlay: com.color.drop.hole.medium
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 10000
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 5
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 5
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 5
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 180
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: LargePack
+    productType: 0
+    idGooglePlay: com.color.drop.hole.large
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 16000
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 10
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 10
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 10
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 360
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: PiggyBank
+    productType: 0
+    idGooglePlay: com.color.drop.hole.piggybank
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value: []
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: RemoveAdsBundle
+    productType: 1
+    idGooglePlay: com.color.drop.hole.removeads.1
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 12
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 0
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 2000
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 5
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 5
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 5
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: RemoveAds
+    productType: 1
+    idGooglePlay: com.color.drop.hole.removeads.2
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 12
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 0
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: ReviveOfferI
+    productType: 0
+    idGooglePlay: com.color.drop.hole.revivekit.1
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 2400
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 2
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: ReviveOfferII
+    productType: 0
+    idGooglePlay: com.color.drop.hole.revivekit.2
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 2400
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 2
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: ReviveOfferIII
+    productType: 0
+    idGooglePlay: com.color.drop.hole.revivekit.3
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 2400
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: StarterPack
+    productType: 1
+    idGooglePlay: com.color.drop.hole.starter
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1000
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 60
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: Coins1
+    productType: 0
+    idGooglePlay: com.color.drop.hole.coin.1
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: Coins2
+    productType: 0
+    idGooglePlay: com.color.drop.hole.coin.2
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 5000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: Coins3
+    productType: 0
+    idGooglePlay: com.color.drop.hole.coin.3
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 10000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: Coins4
+    productType: 0
+    idGooglePlay: com.color.drop.hole.coin.4
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 25000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: Coins5
+    productType: 0
+    idGooglePlay: com.color.drop.hole.coin.5
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 50000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 
+  - productName: Coins6
+    productType: 0
+    idGooglePlay: com.color.drop.hole.coin.6
+    idAmazon: 
+    idIOS: 
+    idMac: 
+    idWindows: 
+    value:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 100000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+    receipt: 

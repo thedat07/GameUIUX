@@ -1,0 +1,7 @@
+How to use:
+
+- Select “ATTHelper > Install” on the Menu bar of Unity
+
+Setup completed!
+
+Note: this action will install package “com.unity.ads.ios-support” from PackageManager and create Gameobject with ATTRequest Component on the currently opened Scene (this should be your first Scene).

@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26f1a5335d812b44ab543f8390a031e0, type: 3}
+  m_Name: TSC_1
+  m_EditorClassIdentifier: 
+  datas:
+  - rewards:
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 30
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 75
+  - rewards:
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 150
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 100
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 30
+  - rewards:
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - rewards:
+    - m_ItemData:
+        type: 5
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 15
+  - rewards:
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 75
+  - rewards:
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 45
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 125
+  - rewards:
+    - m_ItemData:
+        type: 5
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 15
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 150
+  - rewards:
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 200
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 45
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 200
+  - rewards:
+    - m_ItemData:
+        type: 5
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 30
+  - rewards:
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 2
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 200
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 60
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 250
+  - rewards:
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  - rewards:
+    - m_ItemData:
+        type: 5
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 30
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 300
+  - rewards:
+    - m_ItemData:
+        type: 1
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 500
+    - m_ItemData:
+        type: 14
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 90
+    - m_ItemData:
+        type: 2
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 3
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+    - m_ItemData:
+        type: 4
+        displayName: 
+        icon: {fileID: 0}
+      m_Quantity: 1
+  color: 2

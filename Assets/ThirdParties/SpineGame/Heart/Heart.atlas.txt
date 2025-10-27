@@ -1,0 +1,12 @@
+Heart.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Break_1
+bounds:2,40,194,274
+rotate:90
+Break_2
+bounds:328,63,182,276
+Heart
+bounds:2,236,348,274
+offsets:1,1,350,276

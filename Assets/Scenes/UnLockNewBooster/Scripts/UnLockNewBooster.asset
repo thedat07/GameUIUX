@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 261460031c01a9d478cd6a8e53cb7424, type: 3}
+  m_Name: UnLockNewBooster
+  m_EditorClassIdentifier: 
+  datas:
+  - type: 2
+    txtTile: Freeze
+    txtTut: Stop the timer for 10 seconds
+    icon: {fileID: 21300000, guid: 89b36be3866276f4893a0ff63af6cfa4, type: 3}
+  - type: 3
+    txtTile: Balloon
+    txtTut: Pick a man to fly into the hole
+    icon: {fileID: 21300000, guid: 0c2c3d0413cd1934589251ef4b39a822, type: 3}
+  - type: 4
+    txtTile: Magnet
+    txtTut: Suck all required man into the hole
+    icon: {fileID: 21300000, guid: 07be6ab5448b9ab44985e729af47c6f5, type: 3}
